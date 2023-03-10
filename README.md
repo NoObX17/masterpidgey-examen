@@ -1,3 +1,4 @@
+## Parte practica del examen
 Hasta ahora los comandos utilizados han sido: 
 git clone https://github.com/NoObX17/masterpidgey-examen.git y nano README.md
 
@@ -5,30 +6,31 @@ git clone https://github.com/NoObX17/masterpidgey-examen.git y nano README.md
 |----------------------|------------------------------------------------------------|
 |Máximo Fernández Riera|[enlace a github 1](https://github.com/maximofernandezriera)|
 
+# Parte 1, Capturas y explicación
 ## Repositorio masterpidgey-examen creacion
 * Creación repositorio
 ![imagenRepo](https://github.com/NoObX17/masterpidgey-examen/blob/main/capturas/Captura.PNG)
 * Clonamos el repositorio
 ![imagenClone](https://github.com/NoObX17/masterpidgey-examen/blob/main/capturas/CapturaClone.PNG)
 
-# Commit Inicial
+## Commit Inicial
 
-# Push Inicial
+## Push Inicial
 
-# Ignorar archivos
+## Ignorar archivos
 
-# Añadir fichero 1.txt
+## Añadir fichero 1.txt
 
-# Visualizar commits
+## Visualizar commits
 
-# Crear el tag v0.1
+## Crear el tag v0.1
 
-# Subir el tag v0.1
+## Subir el tag v0.1
 
-# Visualizar commits
+## Visualizar commits
 
-# Crear una tabla
+## Crear una tabla
 
-# Colaboradores
+## Colaboradores
 
 # PARTE 2 Pull request
