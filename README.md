@@ -7,7 +7,7 @@ git clone https://github.com/NoObX17/masterpidgey-examen.git y nano README.md
 |Máximo Fernández Riera|[enlace a github 1](https://github.com/maximofernandezriera)|
 
 # Parte 1, Capturas y explicación
-## Repositorio masterpidgey-examen creacion
+## Repositorio masterpidgey-examen creación
 * Creación repositorio
 ![imagenRepo](https://github.com/NoObX17/masterpidgey-examen/blob/main/capturas/Captura.PNG)
 * Clonamos el repositorio **masterpidgey-examen** creado anteriormente
@@ -26,9 +26,9 @@ git clone https://github.com/NoObX17/masterpidgey-examen.git y nano README.md
 ![imagenPushInicial](https://github.com/NoObX17/masterpidgey-examen/blob/main/capturas/CapturaPushInicial.PNG)
 
 ## Ignorar archivos
-* Creacion de carpeta **privada** , archivo **privado.txt** y **.gitignore**
+* Creación de carpeta **privada** , archivo **privado.txt** y **.gitignore**
 ![imagenIgnore1](https://github.com/NoObX17/masterpidgey-examen/blob/main/capturas/CapturaIgnorarArchivos.PNG)
-* Dentro del archivo .gitignore añadimos las carpetas y archivos que queremos ignorarç
+* Dentro del archivo .gitignore añadimos las carpetas y archivos que queremos ignorar
 ![imagenIgnore2](https://github.com/NoObX17/masterpidgey-examen/blob/main/capturas/CapturaIgnore.PNG)
 * Commit y push de los cambios realizados
 ![imagenIgnore3](https://github.com/NoObX17/masterpidgey-examen/blob/main/capturas/CapturaIgnorarArchivos2.PNG)
@@ -87,3 +87,5 @@ git clone https://github.com/NoObX17/masterpidgey-examen.git y nano README.md
 * Aceptación de nuestra pull request
 ![imagenPullRequest2](https://github.com/NoObX17/masterpidgey-examen/blob/main/capturas/CapturaPullRequest2.PNG)
 
+## Conclusión final
+Este es el proceso completo de creación de un repositorio y una Pull Request para aplicar nuestros conocimientos sobre el control de versiones en Git. Proporcionando capturas y breves explicaciones de todo el proceso de forma que pueda servir como una guia.
