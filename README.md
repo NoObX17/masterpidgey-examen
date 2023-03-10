@@ -5,7 +5,7 @@ git clone https://github.com/NoObX17/masterpidgey-examen.git y nano README.md
 |----------------------|------------------------------------------------------------|
 |Máximo Fernández Riera|[enlace a github 1](https://github.com/maximofernandezriera)|
 
-# Repositorio masterpidgey-examen creacion
+## Repositorio masterpidgey-examen creacion
 * Creación repositorio
 ![imagenRepo](https://github.com/NoObX17/masterpidgey-examen/blob/main/capturas/Captura.PNG)
 * Clonamos el repositorio
