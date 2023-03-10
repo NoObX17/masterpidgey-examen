@@ -5,4 +5,4 @@ git clone https://github.com/NoObX17/masterpidgey-examen.git y nano README.md
 |----------------------|------------------------------------------------------------|
 |Máximo Fernández Riera|[enlace a github 1](https://github.com/maximofernandezriera)|
 
-![imagen1](https://raw.githubusercontent.com/NoObX17/masterpidgey-examen/capturas/Captura.PNG)
+![imagen1](https://github.com/NoObX17/masterpidgey-examen/blob/main/capturas/Captura.PNG)
